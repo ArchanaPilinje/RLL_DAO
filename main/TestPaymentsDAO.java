@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 import com.dao.impl.PaymentsDAOImpl;
-import com.model.Category;
+
 import com.model.Payments;
 
 public class TestPaymentsDAO {
